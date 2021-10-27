@@ -1,4 +1,4 @@
-type-binary
+@binary/type
 ==========
 
 LISA 沙盒化二进制定义。
