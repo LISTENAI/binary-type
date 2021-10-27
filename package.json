@@ -1,6 +1,6 @@
 {
   "name": "@binary/type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LISA 沙盒化二进制定义。",
   "types": "index.d.ts",
   "publishConfig": {
