@@ -9,7 +9,7 @@ LISA 沙盒化二进制定义。
 
 根目录的绝对路径。
 
-#### `binaryDir?: string`
+#### `binaryDir: string`
 
 可执行文件目录的绝对路径。
 
