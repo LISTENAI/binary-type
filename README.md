@@ -13,6 +13,10 @@ LISA 沙盒化二进制定义。
 
 可执行文件目录的绝对路径。
 
+#### `libraryDir?: string`
+
+对外暴露的动态链接库的绝对路径。
+
 #### `env?: Record<string, string>`
 
 对外暴露的环境变量。
